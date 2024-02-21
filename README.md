@@ -28,7 +28,7 @@ git clone https://github.com/abenezerayalew/breakout.git
 3. **Install dependencies:**
 
 ```bash
-cd flutter-breakout
+cd breakout
 flutter pub get
 ```
 
