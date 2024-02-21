@@ -3,7 +3,7 @@ This repository contains a simple Breakout game built using Flutter and the Flam
 
 ## Screenshots
 
-![screenshot](screenshot/screenshot1.jpg)    ![screenshot](screenshot/screenshot2.jpg)  ![screenshot](screenshot/screenshot3.jpg)
+|![screenshot](screenshot/screenshot1.jpg) |   ![screenshot](screenshot/screenshot2.jpg)  | ![screenshot](screenshot/screenshot3.jpg) |
 
 
 **Features:**
