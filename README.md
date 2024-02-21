@@ -34,8 +34,8 @@ flutter pub get
 
 4. **Run the app:**
 
-```bash
-flutter run
+```link
+![screenshot](screenshot/screenshot0.png)
 ```
 
 **Gameplay:**
