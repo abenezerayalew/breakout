@@ -34,8 +34,10 @@ flutter pub get
 
 4. **Run the app:**
 
+```bash
+flutter run
+```
 
-![screenshot](screenshot/breakout_QR.png)
 
 
 **Gameplay:**
@@ -49,9 +51,10 @@ flutter pub get
 
 * You can play the game live by scanning the following QR code.
 
-  
-![screenshot](screenshot/breakout_QR3.png)
 
+```image
+![screenshot](screenshot/breakout_QR.png)
+```
 
 
 **Contributing:**
