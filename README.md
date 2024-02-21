@@ -4,8 +4,10 @@ This repository contains a simple Breakout game built using Flutter and the Flam
 ## Screenshots
 
 ![screenshot](screenshot/screenshot1.jpg)
+
 ![screenshot](screenshot/screenshot2.jpg)
-Home screen
+
+![screenshot](screenshot/screenshot3.jpg)
 
 
 **Features:**
@@ -24,7 +26,7 @@ Home screen
 2. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/flutter-breakout.git
+git clone https://github.com/abenezerayalew/breakout.git
 ```
 
 3. **Install dependencies:**
