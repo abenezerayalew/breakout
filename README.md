@@ -3,7 +3,7 @@ This repository contains a simple Breakout game built using Flutter and the Flam
 
 ## Screenshots
 
-|![screenshot](screenshot/screenshot1.jpg) |   ![screenshot](screenshot/screenshot2.jpg)  | ![screenshot](screenshot/screenshot3.jpg) |
+![screenshot](screenshot/screenshot0.png)
 
 
 **Features:**
@@ -28,7 +28,7 @@ git clone https://github.com/abenezerayalew/breakout.git
 3. **Install dependencies:**
 
 ```bash
-cd flutter-breakout
+cd breakout
 flutter pub get
 ```
 
@@ -47,11 +47,10 @@ flutter run
 
 **Customization:**
 
-* You can modify the code in the `game/` directory to adjust various aspects of the game, such as:
-    * Brick layout and difficulty.
-    * Ball speed and physics.
-    * Visual effects and sounds.
-
+* You can play the game live at the following link.
+```link
+flutter run
+```
 **Contributing:**
 
 Feel free to fork this repository and contribute your own improvements or features. 
