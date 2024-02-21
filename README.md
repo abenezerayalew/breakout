@@ -45,12 +45,15 @@ flutter run
 * Breaking all bricks wins the game.
 * Losing a life by the ball falling below the screen ends the game.
 
-**Customization:**
+**Play live:**
 
-* You can play the game live at the following link.
-```link
-flutter run
-```
+* You can play the game live by scanning the following QR code.
+
+  
+![screenshot](screenshot/breakout_QR.png)
+
+
+
 **Contributing:**
 
 Feel free to fork this repository and contribute your own improvements or features. 
