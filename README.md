@@ -34,9 +34,9 @@ flutter pub get
 
 4. **Run the app:**
 
-```link
-![screenshot](screenshot/screenshot0.png)
-```
+
+![screenshot](screenshot/breakout_QR.png)
+
 
 **Gameplay:**
 
