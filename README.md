@@ -47,11 +47,10 @@ flutter run
 
 **Customization:**
 
-* You can modify the code in the `game/` directory to adjust various aspects of the game, such as:
-    * Brick layout and difficulty.
-    * Ball speed and physics.
-    * Visual effects and sounds.
-
+* You can play the game live at the following link.
+```link
+flutter run
+```
 **Contributing:**
 
 Feel free to fork this repository and contribute your own improvements or features. 
