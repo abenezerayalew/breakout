@@ -50,7 +50,7 @@ flutter run
 * You can play the game live by scanning the following QR code.
 
   
-![screenshot](screenshot/breakout_QR.png)
+![screenshot](screenshot/breakout_QR3.png)
 
 
 
