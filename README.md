@@ -10,7 +10,6 @@ This repository contains a simple Breakout game built using Flutter and the Flam
 
 * Classic Breakout gameplay with ball, paddle, and bricks.
 * Responsive controls for mobile devices.
-* Simple visual effects and sounds.
 
 **Getting Started:**
 
